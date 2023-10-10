@@ -28,8 +28,8 @@ MaiLeaps is more of a playful project, so you don't need to use her for any real
 Clone the Repository: Start by cloning the MaiLeaps repository to your local machine.
 
 bash
-Copy code
-git clone https://github.com/yourusername/maileaps.git
+Copy
+git clone https://github.com/Nlemadim/MaiLeaps.git
 Run MaiLeaps: Open the project in Xcode, build and run the app. MaiLeaps will grace your screen with her charming presence.
 
 Interact with MaiLeaps: While you're advised not to press her button, curiosity might get the better of you. Go ahead and press it, and prepare for a surprise!
